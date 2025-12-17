@@ -5,7 +5,7 @@ I am a Deputy Manager from the Retail Banking industry, currently transitioning 
 
 My professional background enables me to bridge the gap between business requirements and data-driven insights, making me well-suited for analytics roles in banking, finance, and data-centric organizations.
 
-##🔹 About Me
+🔹 About Me
 
 📈 Strong foundation in data analysis and problem-solving
 
