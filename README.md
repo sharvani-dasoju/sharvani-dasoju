@@ -61,19 +61,22 @@ Outcome:
 
 Delivered a user-friendly BI solution that improved data visibility and decision-making speed
 
-## 💼 Professional Experience
-HDFC
+## 💼 Experience
+HDFC Bank — Deputy Manager (Classic Portfolio)
 
-Role: Business / Data Support (Data-Oriented Role)
+Analyzed customer financial data, transaction patterns, and portfolio performance to identify growth opportunities and improve customer retention.
 
-Worked with structured financial and customer data
+Worked extensively with structured customer data to segment clients, track revenue metrics, and monitor portfolio health.
 
-Assisted in data validation, reporting, and analysis
+Prepared periodic MIS reports and dashboards (Excel-based) for senior management to support data-driven decision-making.
 
-Supported business operations through data-driven insights
+Evaluated customer behavior and product uptake to recommend suitable banking and investment solutions.
 
-Collaborated with internal teams to improve data accuracy
+Ensured data accuracy and compliance with KYC/AML regulations while onboarding and managing customer profiles.
 
+Collaborated with cross-functional teams to resolve issues using data-backed insights and performance tracking.
+
+Key Skills Applied: Data Analysis, Excel Reporting, Data Interpretation, Business Insights, Stakeholder Communication, Problem Solving
 ## 📈 What I'm Looking For
 
 Entry-level to junior Data Analyst roles
