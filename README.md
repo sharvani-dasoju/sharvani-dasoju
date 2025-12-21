@@ -1,7 +1,7 @@
 
 # 📊 Aspiring Data Analyst | Actively Seeking Opportunities
 
-I am a Deputy Manager from the Retail Banking industry, currently transitioning into the field of Data Analytics. I bring a strong foundation in problem-solving, analytical thinking, and business understanding, combined with a growing passion for working with data to drive meaningful business decisions.
+A Deputy Manager from the Retail Banking industry, currently transitioning into the field of Data Analytics. I bring a strong foundation in problem-solving, analytical thinking, and business understanding, combined with a growing passion for working with data to drive meaningful business decisions.
 
 My professional background enables me to bridge the gap between business requirements and data-driven insights, making me well-suited for analytics roles in banking, finance, and data-centric organizations.
 
